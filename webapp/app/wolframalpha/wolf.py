@@ -19,3 +19,11 @@ class wolframAlpha():
 
     def makeRequest(self,input):
         self.responce = requests.get(input)
+
+    def dumpToFile(self):
+        tempFile = open("temp.gif","wb")
+        tempFile.write(self.responce.content)
+
+    def doItAll(self,input):
+        self.makeRequest(self.questionAssembler(self.stringConverter(input)))
+        self.dumpToFile()

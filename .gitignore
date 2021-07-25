@@ -1,2 +1,8 @@
 
 webapp/app/wolframalpha/appid.py
+
+*.gif
+
+webapp/app/wolframalpha/__pycache__/wolf.cpython-37.pyc
+
+webapp/app/wolframalpha/__pycache__/appid.cpython-37.pyc
