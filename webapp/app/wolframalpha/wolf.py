@@ -15,7 +15,7 @@ class wolframAlpha():
         return input
 
     def questionAssembler(self,input):
-        return self.urlbase.insert(self.appID,input)
+        return self.urlbase.format(self.appID,input)
 
     def makeRequest(self,input):
         self.responce = requests.get(input)
