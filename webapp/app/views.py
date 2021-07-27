@@ -6,5 +6,9 @@ from wolframalpha.wolf import wolframAlpha
 
 def results(request):
     x = wolframAlpha()
-    x.doItAll(request)
+    x.doItAll(request.POST['question'])
     return render(request, "templates/results.html",{})
+
+
+def home(request):
+    return render(request, "templates/home.html",{})
