@@ -2,3 +2,4 @@ https://www.nylas.com/blog/use-python-requests-module-rest-apis/
 https://products.wolframalpha.com/simple-api/documentation/
 https://www.geeksforgeeks.org/python-create-a-simple-assistant-using-wolfram-alpha-api/
 https://docs.djangoproject.com/en/3.2/intro/tutorial01/
+https://www.youtube.com/watch?v=AGtae4L5BbI&ab_channel=Codemy.com
