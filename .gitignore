@@ -6,3 +6,5 @@ webapp/app/wolframalpha/appid.py
 webapp/app/wolframalpha/__pycache__/wolf.cpython-37.pyc
 
 webapp/app/wolframalpha/__pycache__/appid.cpython-37.pyc
+
+webapp/webapp/__pycache__/urls.cpython-37.pyc
