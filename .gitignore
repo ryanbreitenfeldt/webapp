@@ -8,3 +8,7 @@ webapp/app/wolframalpha/__pycache__/wolf.cpython-37.pyc
 webapp/app/wolframalpha/__pycache__/appid.cpython-37.pyc
 
 webapp/webapp/__pycache__/urls.cpython-37.pyc
+
+webapp/app/__pycache__/__init__.cpython-37.pyc
+
+webapp/app/__pycache__/views.cpython-37.pyc
